@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-y249be.evergrowadv.com/sitemap.xml
